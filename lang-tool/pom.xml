@@ -8,7 +8,7 @@
         <groupId>cz.tomaskypta.tools.langtool</groupId>
         <artifactId>langtool-parent</artifactId>
         <relativePath>../pom.xml</relativePath>
-        <version>1.0-SNAPSHOT</version>
+        <version>1.0.0</version>
     </parent>
 
     <artifactId>langtool</artifactId>
